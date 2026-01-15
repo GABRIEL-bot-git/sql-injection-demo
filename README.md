@@ -14,6 +14,14 @@ This project demonstrates SQL Injection vulnerability and its prevention.
 - PHP 7+
 - Web browser
 
+## Database Setup
+1. Open phpMyAdmin
+2. Create a database named: sqli
+3. Click Import
+4. Select the file: database/sqli.sql
+5. Click Go
+
+
 ## How to Run
 1. Clone the repository
 2. Move the project to `htdocs`
